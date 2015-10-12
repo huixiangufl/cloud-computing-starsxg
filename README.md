@@ -1,5 +1,5 @@
 # cloud-computing-starsxg
-# spark gpu framework
+spark gpu framework
 Group member:
 Icaro Alzuru    ialzuru@ufl.edu
 Qi Cai          qcai@ufl.edu
